@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm tannaya, a first-year Computer Science student with skills in HTML, CSS, JavaScript, and Python, interested in open source and learning collaborative development.
-
+I'm tannaya, a first-year Computer Science student with a strong interest in software development and open source.
+I am eager to contribute to open-source projects to gain real-world experience, improve my coding skills, and learn best practices from experienced developers.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tannaya Supriya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tannayasupriya157@gmail.com) 
