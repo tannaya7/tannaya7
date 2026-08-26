@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm tannaya, a first-year Computer Science student with a strong interest in software development and open source.
+I'm tannaya, a Computer Science student with a strong interest in software development and open source.
 I am eager to contribute to open-source projects to gain real-world experience, improve my coding skills, and learn best practices from experienced developers.
 
 ## 🌐 Socials:
